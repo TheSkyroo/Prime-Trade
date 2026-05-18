@@ -1,3 +1,6 @@
+import dotenv from 'dotenv';
+dotenv.config(); // Load .env file into process.env before validation
+
 import { z } from 'zod';
 
 const envSchema = z.object({
