@@ -27,7 +27,7 @@ A production-quality full-stack application featuring JWT authentication, role-b
 ### 1. Clone & enter the project
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/TheSkyroo/Prime-Trade.git
 cd primetrade-backend
 ```
 
